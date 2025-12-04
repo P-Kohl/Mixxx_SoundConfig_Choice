@@ -1,4 +1,4 @@
-bash Menu Script to chose SoundConfig for Mixxx
+bash Menu Script to chose SoundConfig for Mixxx<br>
 <br>
 Supposed you have 2 possible SoundConfigs:<br>
   One without any extension - your computer only... let's call it "preparation" (prep)<br>
