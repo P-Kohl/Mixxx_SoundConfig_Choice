@@ -1,8 +1,8 @@
 bash Menu Script to chose SoundConfig for Mixxx
 
-Supposed you have 2 possible SoundConfigs:
-  One without any extension - your computer only... let's call it "preparation" (prep)
-  One with extension like soundcard(s)... let's call it called "perform" (perf)
+Supposed you have 2 possible SoundConfigs:<br>
+  One without any extension - your computer only... let's call it "preparation" (prep)<br>
+  One with extension like soundcard(s)... let's call it called "perform" (perf)<br>
 
 The bash script file MixxxSoundCfgChoice.sh is to place in the home folder of the user and does the work:
   create some file if needed (prep_soundconfig.xml and perf_soundconfig.xml)
