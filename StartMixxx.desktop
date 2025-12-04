@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=~/MixxxSoundCfgChoice.sh
+Icon=system-run
+Type=Application
+Terminal=true
+Name[en_GB]=StartMixxx
+Name=StartMixxx
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
